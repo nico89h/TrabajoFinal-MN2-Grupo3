@@ -2,6 +2,7 @@ INTEGRANTES:
 	Leal Nicolas
 	Mir Ivan
 	Pedraza Nicolas
+
 	
 ENUNCIADO:
 Considere el problema de predecir la población de dos especies, una de las cuales es depredadora, siendo su población en el tiempo 𝑡 igual a 𝑦(𝑡) y la otra es la presa cuya población es 𝑥(𝑡). 
